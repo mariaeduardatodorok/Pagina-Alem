@@ -12,4 +12,4 @@ A Página Além é mais do que um site - é uma comunidade de pensadores, curios
 Se você está pronto para desafiar suas perspectivas, expandir seus horizontes e mergulhar no desconhecido, então você está no lugar certo. Bem-vindo à Página Além - onde a busca pelo entendimento nunca termina.
 ## Print da tela inicial
 
- 
+![Print da tela inicial] (https://github.com/mariaeduardatodorok/Pagina-Alem/blob/master/miniaturas/P%C3%A1ginaInicial.png)
